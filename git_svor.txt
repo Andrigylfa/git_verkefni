@@ -40,3 +40,5 @@ Git spurningar og svör
 
 9.	Hver fann upp GIT?
 	• Linus Torvalds
+
+Andri Gylfason
