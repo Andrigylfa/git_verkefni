@@ -12,3 +12,9 @@ Git spurningar og svör
 	• git status - Show you information about the current state of your files in a git repository and highlight any differences from the last time you used 'git commit'.
 	• git diff - Show you line-for-line differences in your files.
 	• git checkout - Its used to create branches, switch branches, and checkout remote branches.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff  - Will show changes between commits
+	b) git diff --staged - This form is to view the changes you staged for the next commit relative to the named
+	c) git diff commit1 commit2 - This is to view the changes between two arbitrary
+
