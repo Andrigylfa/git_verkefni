@@ -34,3 +34,6 @@ Git spurningar og svör
 	• Working directory - Its a single checkout of one version of the project
 	• Staging area - A cache of files that you want to commit
 	• Repository - Is a data structure that stores projects or a set of files
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	• The git branch commands primary functions are to create, list, rename and delete branches
