@@ -29,4 +29,8 @@ Git spurningar og svör
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	- Mér finnst að það ætti að koma fyrir við hvertja spurningu / verkefni afþví það vinna ekkert allir eins og það gerir það að verkum að verkefnin eru ekkert alltaf skiljanleg fyrir þann sem fer yfir.
-	
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	• Working directory - Its a single checkout of one version of the project
+	• Staging area - A cache of files that you want to commit
+	• Repository - Is a data structure that stores projects or a set of files
