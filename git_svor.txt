@@ -18,3 +18,11 @@ Git spurningar og svör
 	b) git diff --staged - This form is to view the changes you staged for the next commit relative to the named
 	c) git diff commit1 commit2 - This is to view the changes between two arbitrary
 
+4. 	Hvað er útgáfustýring (e.version control)? 
+	• Its a component of software configuration management
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	• Branching and merging are easy
+	• Workflow is flexible
+	• Data integrity is assured
+	• Free
