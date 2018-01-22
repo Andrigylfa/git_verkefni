@@ -1,1 +1,8 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	• cd  - The cd command is used to change the current directory
+	• cd ~ - Changes to the home directory
+	• ls - Lists directory contents of files and directories
+	• pwd - Writes the full pathname of the current working directory
+	• mkdir - Creates a new directory
+	
