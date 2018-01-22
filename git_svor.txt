@@ -37,3 +37,6 @@ Git spurningar og svör
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	• The git branch commands primary functions are to create, list, rename and delete branches
+
+9.	Hver fann upp GIT?
+	• Linus Torvalds
