@@ -5,4 +5,10 @@ Git spurningar og svör
 	• ls - Lists directory contents of files and directories
 	• pwd - Writes the full pathname of the current working directory
 	• mkdir - Creates a new directory
-	
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	• git clone - Used to make a local copy of a remote repository
+	• git log - Shows the commit logs
+	• git status - Show you information about the current state of your files in a git repository and highlight any differences from the last time you used 'git commit'.
+	• git diff - Show you line-for-line differences in your files.
+	• git checkout - Its used to create branches, switch branches, and checkout remote branches.
