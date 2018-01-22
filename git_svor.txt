@@ -26,3 +26,7 @@ Git spurningar og svör
 	• Workflow is flexible
 	• Data integrity is assured
 	• Free
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	- Mér finnst að það ætti að koma fyrir við hvertja spurningu / verkefni afþví það vinna ekkert allir eins og það gerir það að verkum að verkefnin eru ekkert alltaf skiljanleg fyrir þann sem fer yfir.
+	
